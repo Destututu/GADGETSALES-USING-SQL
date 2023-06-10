@@ -21,7 +21,7 @@ sold? And why is the result so??
 ## INSIGHT
 1. The device which had the most sales by quantity is,Pro HERO10 Black
 ![](GQ1.JPG.jpg)
-2.The device which had the least sales by quantity is, Logitech MX Master3 
+2. The device which had the least sales by quantity is, Logitech MX Master3 
 ![](GQ2.JPEG.jpg)
 3. The Top 3 most expensive gadgets are; Canon EOS R6, Sony Alpha a7111, LG OLED C1 Series
 ![](GQ3.JPEG.jpg)
@@ -31,17 +31,17 @@ sold? And why is the result so??
 ![](QG55.png)
 6. The customer whose name had the most orders by quantity is; Megan Smith
 ![](QG6.JPEG.jpg)
- 7. The top 3 devices with the lowest sales by quantity are 
- ![](GQ7.JPEG.jpg)
- 8. The order date which “iPad Pro” had the most sales by quantity
- ![](GQ888.png)
- 9. The customer with name that bought “iPhone 13” the most by quantity
+7. The top 3 devices with the lowest sales by quantity are 
+ ![](qg77.png)
+8. The order date which “iPad Pro” had the most sales by quantity
+ ![](gq8888.png)
+9. The customer with name that bought “iPhone 13” the most by quantity
  ![](GQ99.png)
- 10. Between the cheapest device and the most expensive device, the one with more quantity 
+10. Between the cheapest device and the most expensive device, the one with more quantity 
 sold are
 ![](GQ10.png)
 ![](GQ111.png)
-
+The Canon EOS R6 likely offers advanced features and superior performance compared to other cameras in its price range. This could attract professional photographers or enthusiasts who value the camera's capabilities and are willing to pay a premium for them.
 ## CONCLUSION
 After analyzing the order and order item tables, you can determine the overall sales performance of the shop. This includes metrics such as total revenue, total number of orders, average order value, and popular products and By examining the product table and analyzing the order item table, you can identify the most popular products in terms of sales volume or revenue. This information can help Mr. Chinedu make informed decisions about inventory management and product promotions.The consumer table provides insights into customer demographics, such as names, addresses, and contact information. By analyzing this data, you can segment customers based on different criteria (e.g., age, location, purchase history) and identify the most valuable customers or target specific customer groups for marketing campaigns.
 
